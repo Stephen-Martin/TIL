@@ -1,1 +1,4 @@
 17/Oct/2022 Adding some more text, I think the last time I did this I did not save and thats why it never showed up on git lol
+            I decided to use this space to note down the stuff I have learned doing the odin project, As you can see today 
+            I have went through using Git for the second time. The first time was the Git_Test this time it is the TIL. Besdies this
+            I covered the introduction to HTML and CSS on the Odin project. HTML = Puts the info on a webpage CSS = Positions the info on the web page
