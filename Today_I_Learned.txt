@@ -2,3 +2,8 @@
             I decided to use this space to note down the stuff I have learned doing the odin project, As you can see today 
             I have went through using Git for the second time. The first time was the Git_Test this time it is the TIL. Besdies this
             I covered the introduction to HTML and CSS on the Odin project. HTML = Puts the info on a webpage CSS = Positions the info on the web page
+
+18/Oct/2022 Today I created "My first webpage" I did this when I was in secondary school but this time it makes sense to me which is good. I tried
+            to add an image to the webpage without using google but I could not figure it out so I will wait for it to come up further on in the odin project
+            The word "charset" reminds me of "charmandar" in pokemon. I also forgot to mention I could not get the webpage to work as I typed my code in the 
+            Text edit app on mac lol once I opened it in VScode and saved it then worked for me.
