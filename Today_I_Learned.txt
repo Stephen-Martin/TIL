@@ -7,3 +7,7 @@
             to add an image to the webpage without using google but I could not figure it out so I will wait for it to come up further on in the odin project
             The word "charset" reminds me of "charmandar" in pokemon. I also forgot to mention I could not get the webpage to work as I typed my code in the 
             Text edit app on mac lol once I opened it in VScode and saved it then worked for me.
+
+19/Oct/2022 Today I created another new webpage which I also added to git. I learned how to create numbers lists and also un numberlisted lists.
+            It was handy enough to understand, I am excited to move on to some more stuff that may be a bit harder. Today I am also tired lol. Also one last thing
+            I keep forgetting to click save and then I do be confused as to why git says everything is up to date lol.
