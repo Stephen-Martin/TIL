@@ -11,3 +11,7 @@
 19/Oct/2022 Today I created another new webpage which I also added to git. I learned how to create numbers lists and also un numberlisted lists.
             It was handy enough to understand, I am excited to move on to some more stuff that may be a bit harder. Today I am also tired lol. Also one last thing
             I keep forgetting to click save and then I do be confused as to why git says everything is up to date lol.
+
+24/Oct/2023 I took a few days off from The Odin project as I had a couple of busy days but I am back now! I did not want to jump into a new lesson right away so I 
+            repeated the lesson I did last week on creating a webpage, made some words appear in <b>bold</b? and some in <i>Italic</i>, I also made some numberd and
+            bulleted lists. Tomorrow I will contimue with my a new lesson!
